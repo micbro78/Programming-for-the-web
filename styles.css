@@ -20,3 +20,11 @@ button{
     width: 100%;
   }
 }
+@keyframes demo {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+button {
+  animation-name: demo;
+  animation-duration: 4s;
+}
