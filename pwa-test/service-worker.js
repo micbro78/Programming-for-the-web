@@ -4,6 +4,7 @@ const urlsToCache = [
   '/pwa-test/index.html',
   '/pwa-test/manifest.json',
   '/pwa-test/app.js',
+  '/pwa-test/service-worker.js'
   '/pwa-test/icon.png'
 ];
 
