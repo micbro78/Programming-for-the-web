@@ -1,11 +1,11 @@
 const CACHE_NAME = 'simple-pwa-cache-v1';
 const urlsToCache = [
-  '/simple-pwa/',
-  '/simple-pwa/index.html',
-  '/simple-pwa/manifest.json',
-  '/simple-pwa/app.js',
-  '/simple-pwa/service-worker.js',
-  '/simple-pwa/icon.png'
+  '/Programming-for-the-web/simple-pwa/',
+  '/Programming-for-the-web/simple-pwa/index.html',
+  '/Programming-for-the-web/simple-pwa/manifest.json',
+  '/Programming-for-the-web/simple-pwa/app.js',
+  '/Programming-for-the-web/simple-pwa/service-worker.js',
+  '/Programming-for-the-web/simple-pwa/icon.png'
 ];
 
 // Install the service worker
