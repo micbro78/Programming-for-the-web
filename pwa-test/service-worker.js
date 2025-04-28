@@ -5,7 +5,6 @@ const urlsToCache = [
   '/pwa-test/manifest.json',
   '/pwa-test/app.js',
   '/pwa-test/service-worker.js'
-  '/pwa-test/icon.png'
 ];
 
 // Install the service worker
